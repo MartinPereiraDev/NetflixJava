@@ -25,6 +25,6 @@ public class Pelicula extends Titulos {
 		this.año = año;
 	}
 
-
+}
 
 	
