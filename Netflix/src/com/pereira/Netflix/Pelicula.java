@@ -16,6 +16,11 @@ public class Pelicula extends Titulos {
 	
 
 
+	
+
+
+
+
 	public int getAño() {
 		return año;
 	}
