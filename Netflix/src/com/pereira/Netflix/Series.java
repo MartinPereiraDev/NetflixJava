@@ -8,8 +8,8 @@ public class Series extends Titulos {
 	
 
 	
-	public Series(String titulo,String genero, String creador, int temporadas, double duracion) {
-		super(titulo, genero, creador, duracion);
+	public Series(String titulo,String genero, String creador, double duracion, int temporadas) {
+		
 		
 		this.temporadas = temporadas;
 		
@@ -28,11 +28,7 @@ public class Series extends Titulos {
 
 	
 
-	@Override
-	public String toString() {
-		// TODO Auto-generated method stub
-		return super.toString();
-	}
+	
 	
 
 }
